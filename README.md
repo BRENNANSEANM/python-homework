@@ -1,2 +1,2 @@
-# pythong-homework
+# python-homework
 UW FinTech Python Homework
