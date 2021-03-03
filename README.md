@@ -10,7 +10,7 @@ UW FinTech Python Homework
         header = next(reader)
         dict_from_csv = {rows[0]:rows[1] for rows in reader}
 
-    *Then from there I spent a lot of time trying to get the sum command to work, but kept getting syntax or undefined errors - but I could confirm I created a dictionary with Date as the Key and Profit/Losses as the Value.
+    * Then from there I spent a lot of time trying to get the sum command to work, but kept getting syntax or undefined errors - but I could confirm I created a dictionary with Date as the Key and Profit/Losses as the Value.
 
 2. Guidance on best practices for Python/Pandas going forward:
     * Should we always create a bucket for intializing objects, int, str, float, lists, dictionaries, etc.  I had originally placed them itermittantly, as some of the in class work had it that was, again never got far enought to truly test this theory out and more intereted in best practice.
